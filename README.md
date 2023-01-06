@@ -1,16 +1,42 @@
-# animation_flutter_module
+# Flutter TabView Module
+A new flutter app for demonstrating TabView.
 
-A new Flutter project.
+# Demo
+  <table>
+  <tr>
+  <td><img src="https://github.com/MarvelApps-Flutter/flutter_animation/blob/dev/working_demo/animation_module_demo.gif" height="480px"></td>
+    </tr>
+  </table>
 
-## Getting Started
+# Android Screenshots
 
-This project is a starting point for a Flutter application.
+<table>
+  <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_animation/blob/dev/screenshots/android/android1.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_animation/blob/dev/screenshots/android/android2.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_animation/blob/dev/screenshots/android/android3.png" height="480px"></td>
+    
+  </tr>
+ </table>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+</br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+# IOS Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_animation/blob/dev/screenshots/ios/ios1.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_animation/blob/dev/screenshots/ios/ios2.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/flutter_animation/blob/dev/screenshots/ios/ios3.png" height="480px"></td>
+    
+  </tr>
+ </table>
+ 
+ </br>
+ 
+
+ 
+
