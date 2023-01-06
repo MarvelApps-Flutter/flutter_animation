@@ -1,5 +1,5 @@
-# Flutter TabView Module
-A new flutter app for demonstrating TabView.
+# Flutter Animation Module
+A new flutter app for demonstrating Flutter Animation.
 
 # Demo
   <table>
